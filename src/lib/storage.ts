@@ -3,46 +3,83 @@ import { INITIAL_ROSTER } from '@/data/roster';
 import fs from 'fs';
 import path from 'path';
 
-const DATA_DIR = path.join(process.cwd(), 'data');
+const IS_VERCEL = process.env.VERCEL === '1' || process.env.NODE_ENV === 'production';
+const DATA_DIR = process.env.VERCEL === '1'
+  ? path.join('/tmp', 'datemind-data')
+  : path.join(process.cwd(), 'data');
+const BUNDLED_DATA_DIR = path.join(process.cwd(), 'data');
+
 const PROFILES_FILE = path.join(DATA_DIR, 'profiles.json');
 const DATES_FILE = path.join(DATA_DIR, 'dates.json');
+const BUNDLED_PROFILES_FILE = path.join(BUNDLED_DATA_DIR, 'profiles.json');
+const BUNDLED_DATES_FILE = path.join(BUNDLED_DATA_DIR, 'dates.json');
+
+// In-memory cache for instant serverless responsiveness
+let memoryProfiles: Person[] | null = null;
+let memoryDates: MutualEvaluation[] | null = null;
 
 function ensureDataDir() {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+  try {
+    if (!fs.existsSync(DATA_DIR)) {
+      fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
+  } catch (e) {
+    // Read-only filesystem warning, in-memory cache will take over
   }
 }
 
 export class DataStore {
   static getProfiles(): Person[] {
+    if (memoryProfiles && memoryProfiles.length > 0) {
+      return memoryProfiles;
+    }
+
     try {
       ensureDataDir();
+      // 1. Try reading from writable DATA_DIR
       if (fs.existsSync(PROFILES_FILE)) {
         const raw = fs.readFileSync(PROFILES_FILE, 'utf-8');
         const list = JSON.parse(raw);
         if (Array.isArray(list) && list.length > 0) {
+          memoryProfiles = list;
+          return list;
+        }
+      }
+
+      // 2. Try reading from bundled DATA_DIR (Vercel deployment bundle)
+      if (fs.existsSync(BUNDLED_PROFILES_FILE)) {
+        const raw = fs.readFileSync(BUNDLED_PROFILES_FILE, 'utf-8');
+        const list = JSON.parse(raw);
+        if (Array.isArray(list) && list.length > 0) {
+          memoryProfiles = list;
+          // Seed writable directory if possible
+          try {
+            ensureDataDir();
+            fs.writeFileSync(PROFILES_FILE, raw, 'utf-8');
+          } catch {}
           return list;
         }
       }
     } catch (e) {
       console.warn('Error reading profiles from file, using initial roster:', e);
     }
-    // Default to initial 25 verified people and persist to file
+
+    // 3. Fallback to code-defined INITIAL_ROSTER
+    memoryProfiles = [...INITIAL_ROSTER];
     try {
       ensureDataDir();
       fs.writeFileSync(PROFILES_FILE, JSON.stringify(INITIAL_ROSTER, null, 2), 'utf-8');
-    } catch (e) {
-      console.warn('Could not write initial roster to file:', e);
-    }
-    return INITIAL_ROSTER;
+    } catch {}
+    return memoryProfiles;
   }
 
   static saveProfiles(profiles: Person[]): void {
+    memoryProfiles = profiles;
     try {
       ensureDataDir();
       fs.writeFileSync(PROFILES_FILE, JSON.stringify(profiles, null, 2), 'utf-8');
     } catch (e) {
-      console.error('Error saving profiles to file:', e);
+      console.warn('Could not persist profiles to filesystem (relying on memory cache):', e);
     }
   }
 
@@ -52,7 +89,7 @@ export class DataStore {
   }
 
   static addProfile(newPerson: Person): Person {
-    const list = this.getProfiles();
+    const list = [...this.getProfiles()];
     const existingIndex = list.findIndex(p => p.id === newPerson.id);
     if (existingIndex >= 0) {
       list[existingIndex] = newPerson;
@@ -74,29 +111,52 @@ export class DataStore {
   }
 
   static getDates(): MutualEvaluation[] {
+    if (memoryDates && memoryDates.length > 0) {
+      return memoryDates;
+    }
+
     try {
       ensureDataDir();
+      // 1. Try reading from writable DATA_DIR
       if (fs.existsSync(DATES_FILE)) {
         const raw = fs.readFileSync(DATES_FILE, 'utf-8');
         const list = JSON.parse(raw);
-        if (Array.isArray(list)) return list;
+        if (Array.isArray(list)) {
+          memoryDates = list;
+          return list;
+        }
+      }
+
+      // 2. Try reading from bundled DATA_DIR
+      if (fs.existsSync(BUNDLED_DATES_FILE)) {
+        const raw = fs.readFileSync(BUNDLED_DATES_FILE, 'utf-8');
+        const list = JSON.parse(raw);
+        if (Array.isArray(list)) {
+          memoryDates = list;
+          try {
+            ensureDataDir();
+            fs.writeFileSync(DATES_FILE, raw, 'utf-8');
+          } catch {}
+          return list;
+        }
       }
     } catch (e) {
       console.warn('Error reading dates from file:', e);
     }
+    memoryDates = [];
     return [];
   }
 
   static saveDate(evalData: MutualEvaluation): void {
     try {
-      const dates = this.getDates();
+      const dates = [...this.getDates()];
       dates.unshift(evalData);
-      // keep last 50 dates
       const trimmed = dates.slice(0, 50);
+      memoryDates = trimmed;
       ensureDataDir();
       fs.writeFileSync(DATES_FILE, JSON.stringify(trimmed, null, 2), 'utf-8');
     } catch (e) {
-      console.error('Error saving date evaluation:', e);
+      console.warn('Could not persist date to filesystem (relying on memory cache):', e);
     }
   }
 
