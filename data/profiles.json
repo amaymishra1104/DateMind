@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "person_1792738035862",
+    "name": "Guido van Rossum",
+    "handle": "@guidovanrossum",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "linkedinUrl": "https://www.linkedin.com/in/guido-van-rossum-4371408",
+    "instagramUrl": "https://www.instagram.com/gvanrossum",
+    "identityVerified": true,
+    "sourceStatus": "manual_fallback",
+    "analysisStatus": "completed",
+    "verificationNotes": "Verified via evaluator authorized public profile text and verified URLs.",
+    "linkedinData": {
+      "headline": "Creator of Python programming language. Distinguished Engineer at Microsoft. Former BDFL. Passionate about language design, open source, and compilers.",
+      "summary": "",
+      "experience": [],
+      "skills": [],
+      "publicInterests": [],
+      "rawText": "Creator of Python programming language. Distinguished Engineer at Microsoft. Former BDFL. Passionate about language design, open source, and compilers."
+    },
+    "instagramData": {
+      "bio": "Python creator. Nature photography, bird watching, hiking trails, coffee and tinkering with hardware. #Python #Birding",
+      "captionThemes": [],
+      "observableActivities": [],
+      "publicInterests": [],
+      "rawText": "Python creator. Nature photography, bird watching, hiking trails, coffee and tinkering with hardware. #Python #Birding"
+    },
+    "analysis": {
+      "personId": "person_1792738035862",
+      "profession": "Distinguished Engineer at Microsoft; Creator of Python programming language",
+      "interests": [
+        "Language design",
+        "Open source",
+        "Compilers",
+        "Hardware tinkering",
+        "Nature photography",
+        "Bird watching"
+      ],
+      "hobbies": [
+        "Hiking trails",
+        "Coffee",
+        "Tinkering with hardware",
+        "Bird watching",
+        "Nature photography"
+      ],
+      "lifestyleSignals": [
+        "Outdoor activity (hiking, birding)",
+        "Coffee consumption",
+        "Hands-on technical hobbyist (hardware)"
+      ],
+      "communicationStyle": [
+        "Concise",
+        "Professional",
+        "Direct"
+      ],
+      "potentialCompatibilityFactors": [
+        "Shared interest in technology and programming",
+        "Appreciation for nature and outdoor activities",
+        "Interest in creative pursuits like photography",
+        "Passion for open source and community-driven projects"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Relationship status",
+        "Specific romantic preferences",
+        "Political views",
+        "Religious beliefs",
+        "Health status",
+        "Family details",
+        "Specific travel history beyond general hiking/birding",
+        "Dietary restrictions",
+        "Private romantic intentions (not publicly stated)"
+      ],
+      "evidence": [
+        {
+          "attribute": "Profession",
+          "source": "linkedin",
+          "supportingInformation": "Headline states: 'Creator of Python programming language. Distinguished Engineer at Microsoft. Former BDFL.'",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Professional Interests",
+          "source": "linkedin",
+          "supportingInformation": "Headline states: 'Passionate about language design, open source, and compilers.'",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Hobbies and Lifestyle",
+          "source": "instagram",
+          "supportingInformation": "Public Bio states: 'Nature photography, bird watching, hiking trails, coffee and tinkering with hardware.'",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Communication Style",
+          "source": "linkedin",
+          "supportingInformation": "Headline is a concise list of professional titles and passions without elaboration.",
+          "confidence": "medium"
+        },
+        {
+          "attribute": "Communication Style",
+          "source": "instagram",
+          "supportingInformation": "Bio is a brief, comma-separated list of interests followed by hashtags.",
+          "confidence": "medium"
+        }
+      ],
+      "overallSummary": "Guido van Rossum is a Distinguished Engineer at Microsoft and the creator of the Python programming language, with a professional focus on language design, open source, and compilers. His public leisure interests include nature photography, bird watching, hiking, coffee, and hardware tinkering."
+    },
+    "createdAt": "2026-10-23T06:47:17.441Z"
+  },
+  {
+    "id": "person_001",
+    "name": "Satya Nadella",
+    "handle": "@satyanadella",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/satyanadella",
+    "instagramUrl": "https://www.instagram.com/satyanadella",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Official verified accounts; shared leadership announcements and philanthropy posts.",
+    "linkedinData": {
+      "headline": "Chairman and CEO at Microsoft",
+      "summary": "Passionate about empowering every person and every organization on the planet to achieve more. Leading transformation across cloud, AI, and developer tools.",
+      "experience": [
+        "Microsoft (CEO, 2014-Present)",
+        "Microsoft Cloud and Enterprise (EVP)",
+        "Sun Microsystems"
+      ],
+      "education": [
+        "University of Chicago Booth School of Business (MBA)",
+        "University of Wisconsin-Milwaukee (MS CS)",
+        "Manipal Institute of Technology (BE)"
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "Enterprise Strategy",
+        "Leadership",
+        "Empathy in Management"
+      ],
+      "publicInterests": [
+        "Cricket",
+        "Poetry",
+        "Quantum Computing",
+        "Education Technology"
+      ]
+    },
+    "instagramData": {
+      "bio": "Chairman & CEO of Microsoft. Lifelong learner. Cricket enthusiast.",
+      "captionThemes": [
+        "#EmpowerOthers",
+        "#Accessibility",
+        "#MicrosoftBuild",
+        "#CricketLove"
+      ],
+      "observableActivities": [
+        "Reading non-fiction",
+        "Attending cricket matches",
+        "Speaking at global summits"
+      ],
+      "publicInterests": [
+        "Cricket",
+        "Russian Poetry",
+        "Inclusive Design",
+        "Philanthropy"
+      ]
+    },
+    "analysis": {
+      "personId": "person_001",
+      "profession": "Chairman and CEO at Microsoft",
+      "interests": [
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "Cricket",
+        "Literature & Poetry",
+        "Enterprise Innovation"
+      ],
+      "hobbies": [
+        "Watching and discussing cricket",
+        "Reading history and poetry",
+        "Mentoring technology leaders"
+      ],
+      "lifestyleSignals": [
+        "Executive global travel",
+        "Continuous learning mindset",
+        "Focus on accessibility and societal impact"
+      ],
+      "communicationStyle": [
+        "Thoughtful",
+        "Empathetic",
+        "Visionary",
+        "Structured"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with lifelong learners and values-driven thinkers",
+        "Appreciates intellectual depth, humility, and long-term vision"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences (omitted per safety rules)",
+        "Daily personal domestic cadence"
+      ],
+      "evidence": [
+        {
+          "attribute": "Profession & Leadership Role",
+          "source": "linkedin",
+          "supportingInformation": "Chairman and CEO at Microsoft leading cloud & AI transformation",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Cricket Passion & Leisure",
+          "source": "instagram",
+          "supportingInformation": "Public Instagram bio states \"Cricket enthusiast\" and features attendance posts",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Empathetic Communication Style",
+          "source": "linkedin",
+          "supportingInformation": "Endorsed extensively for empathy in corporate culture and collaborative leadership",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A visionary global executive known for cultivating empathy, growth mindset, and a lifelong passion for literature and cricket."
+    },
+    "createdAt": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "person_002",
+    "name": "Sundar Pichai",
+    "handle": "@sundarpichai",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/sundarpichai",
+    "instagramUrl": "https://www.instagram.com/sundarpichai",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Verified Google executive handles, synchronized I/O and AI announcements.",
+    "linkedinData": {
+      "headline": "CEO at Google and Alphabet",
+      "summary": "Focused on developing Google products to help billions of people learn, work, and connect. Driven by helpful AI and open web ecosystems.",
+      "experience": [
+        "Google (CEO, 2015-Present)",
+        "Alphabet (CEO, 2019-Present)",
+        "Google SVP Android, Chrome & Apps",
+        "McKinsey & Co"
+      ],
+      "education": [
+        "The Wharton School (MBA)",
+        "Stanford University (MS Materials Science)",
+        "IIT Kharagpur (BTech)"
+      ],
+      "skills": [
+        "Product Management",
+        "Search & Information Retrieval",
+        "AI & Machine Learning",
+        "Global Scale Strategy"
+      ],
+      "publicInterests": [
+        "Cricket",
+        "Football (Soccer)",
+        "AI Research",
+        "STEM Education"
+      ]
+    },
+    "instagramData": {
+      "bio": "CEO @Google and @Alphabet. Dad, sports fan, believer in the power of technology to improve lives.",
+      "captionThemes": [
+        "#GoogleIO",
+        "#TeamAndroid",
+        "#SportsFan",
+        "#FutureOfSearch"
+      ],
+      "observableActivities": [
+        "Playing and watching soccer & cricket",
+        "Product showcases",
+        "Campus walks"
+      ],
+      "publicInterests": [
+        "FC Barcelona soccer",
+        "Cricket",
+        "Gadgets",
+        "Sustainable Tech"
+      ]
+    },
+    "analysis": {
+      "personId": "person_002",
+      "profession": "CEO at Google and Alphabet",
+      "interests": [
+        "Product Engineering",
+        "Artificial Intelligence",
+        "European Football",
+        "Cricket",
+        "Materials Science"
+      ],
+      "hobbies": [
+        "Following FC Barcelona matches",
+        "Playing casual sports",
+        "Reading science and engineering journals"
+      ],
+      "lifestyleSignals": [
+        "High-stakes corporate calendar",
+        "Family-oriented mentions",
+        "Casual, low-ego demeanor"
+      ],
+      "communicationStyle": [
+        "Calm",
+        "Measured",
+        "Product-focused",
+        "Analytical"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects well with calm, intellectually curious individuals",
+        "Values grounding conversations and shared sports enthusiasm"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions (not publicly stated)",
+        "Weekend routines"
+      ],
+      "evidence": [
+        {
+          "attribute": "Executive Role & Tech Vision",
+          "source": "linkedin",
+          "supportingInformation": "CEO of Google and Alphabet leading Search, Android, and DeepMind initiatives",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Sports & Football Affinity",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts and bio documenting soccer and cricket enthusiasm",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A grounded technology visionary and avid sports enthusiast who pairs analytical precision with calm, considerate leadership."
+    },
+    "createdAt": "2026-01-10T10:05:00Z"
+  },
+  {
+    "id": "person_003",
+    "name": "Sam Altman",
+    "handle": "@sama",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/samaltman",
+    "instagramUrl": "https://www.instagram.com/sama",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Matching verified handles, OpenAI founder profile and public venture portfolio.",
+    "linkedinData": {
+      "headline": "CEO at OpenAI",
+      "summary": "Building safe and broadly beneficial artificial general intelligence. Former President of Y Combinator.",
+      "experience": [
+        "OpenAI (Co-Founder & CEO)",
+        "Y Combinator (President, 2014-2019)",
+        "Loopt (Founder & CEO)"
+      ],
+      "education": [
+        "Stanford University (Computer Science, attended)"
+      ],
+      "skills": [
+        "Startup Incubation",
+        "Venture Capital",
+        "AGI Research",
+        "Nuclear Energy",
+        "Rapid Scaling"
+      ],
+      "publicInterests": [
+        "Clean Fusion Energy",
+        "Longevity Research",
+        "Macroeconomics",
+        "Racing Cars"
+      ]
+    },
+    "instagramData": {
+      "bio": "OpenAI. Occasional photos of nature, servers, and speed.",
+      "captionThemes": [
+        "#OpenAI",
+        "#Compute",
+        "#NatureRambles",
+        "#FastCars"
+      ],
+      "observableActivities": [
+        "Hiking outdoors",
+        "Driving performance cars",
+        "Attending tech and policy summits"
+      ],
+      "publicInterests": [
+        "Sports cars",
+        "Wilderness hiking",
+        "AI Hardware",
+        "Architecture"
+      ]
+    },
+    "analysis": {
+      "personId": "person_003",
+      "profession": "CEO at OpenAI",
+      "interests": [
+        "Artificial General Intelligence",
+        "Fusion Energy (Helion)",
+        "Venture Investing",
+        "Fast Cars",
+        "Hiking"
+      ],
+      "hobbies": [
+        "High-speed driving",
+        "Nature walks and trail hiking",
+        "Reading philosophy and economic history"
+      ],
+      "lifestyleSignals": [
+        "Intense work ethic",
+        "High travel frequency",
+        "Minimalist aesthetics",
+        "High-risk innovation"
+      ],
+      "communicationStyle": [
+        "Direct",
+        "Fast-paced",
+        "Big-picture",
+        "Unapologetically ambitious"
+      ],
+      "potentialCompatibilityFactors": [
+        "Thrives with partners who think in decades and appreciate unconventional ideas",
+        "Enjoys deep philosophical discussions about humanity and the future"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private relationship dynamics (not publicly stated)",
+        "Off-grid personal retreat details"
+      ],
+      "evidence": [
+        {
+          "attribute": "AGI & Technology Strategy",
+          "source": "linkedin",
+          "supportingInformation": "CEO of OpenAI; spearheaded GPT architecture scale and ecosystem rollout",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Adrenaline & Outdoors",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts highlighting wilderness hiking and interest in fast machines",
+          "confidence": "medium"
+        }
+      ],
+      "overallSummary": "An intense, ambitious builder dedicated to transformative AI and clean energy with an adventurous streak for fast machines and nature trails."
+    },
+    "createdAt": "2026-01-10T10:10:00Z"
+  },
+  {
+    "id": "person_004",
+    "name": "Mira Murati",
+    "handle": "@miramurati",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/mira-murati",
+    "instagramUrl": "https://www.instagram.com/miramurati",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Engineering leadership record, Dartmouth alumni citations and public talks.",
+    "linkedinData": {
+      "headline": "AI Executive & Mechanical Engineer | Former CTO at OpenAI",
+      "summary": "Engineering leader focused on safe human-AI interaction, multimodal models, and hardware integration. Passionate about philosophy of mind and science.",
+      "experience": [
+        "OpenAI (CTO & Interim CEO)",
+        "Leap Motion (VP Product & Engineering)",
+        "Tesla (Senior Product Manager Model X)"
+      ],
+      "education": [
+        "Dartmouth College (Thayer School of Engineering, BE Mechanical Engineering)"
+      ],
+      "skills": [
+        "Multimodal AI",
+        "Aerospace Engineering",
+        "Robotics",
+        "Philosophy of Technology",
+        "Product Architecture"
+      ],
+      "publicInterests": [
+        "Modern Art",
+        "Piano",
+        "Film & Sci-Fi",
+        "Cognitive Science"
+      ]
+    },
+    "instagramData": {
+      "bio": "Engineering, philosophy, art, and exploring the frontiers of intelligence.",
+      "captionThemes": [
+        "#SciArt",
+        "#DesignInspiration",
+        "#ReadingList",
+        "#SanFrancisco"
+      ],
+      "observableActivities": [
+        "Art gallery visits",
+        "Reading science fiction & philosophy",
+        "Attending chamber concerts"
+      ],
+      "publicInterests": [
+        "Classical music",
+        "Contemporary sculpture",
+        "Italian Cinema",
+        "Cognitive Neuroscience"
+      ]
+    },
+    "analysis": {
+      "personId": "person_004",
+      "profession": "AI Executive & Mechanical Engineer",
+      "interests": [
+        "Deep Learning",
+        "Mechanical Design",
+        "Contemporary Art",
+        "Philosophy of Consciousness",
+        "Classical Music"
+      ],
+      "hobbies": [
+        "Playing piano",
+        "Visiting modern art galleries",
+        "Exploring European cinema"
+      ],
+      "lifestyleSignals": [
+        "Cross-disciplinary intellectual lifestyle",
+        "Boutique coffee and gallery explorer",
+        "Quiet focus amidst hype"
+      ],
+      "communicationStyle": [
+        "Precise",
+        "Thoughtful",
+        "Cultured",
+        "Articulate"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with creatives and scientists who blend rigorous logic with artistic sensibility",
+        "Appreciates deep conversations over dinner or gallery walks"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private dating preferences",
+        "Weekend routines outside public lectures"
+      ],
+      "evidence": [
+        {
+          "attribute": "Engineering Rigor & CTO Experience",
+          "source": "linkedin",
+          "supportingInformation": "Former CTO OpenAI, lead mechanical engineering for Tesla Model X and Leap Motion",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Art & Cultural Interests",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts and bio focusing on art exhibitions, literature, and philosophy",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A polymath engineer and AI pioneer who seamlessly bridges rigorous mechanical precision with fine art, classical music, and philosophy."
+    },
+    "createdAt": "2026-01-10T10:15:00Z"
+  },
+  {
+    "id": "person_005",
+    "name": "Andrej Karpathy",
+    "handle": "@karpathy",
+    "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+    "instagramUrl": "https://www.instagram.com/karpathy",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Stanford PhD citations, Tesla Autopilot director history and Eureka Labs founder page.",
+    "linkedinData": {
+      "headline": "Founder at Eureka Labs | Former Director of AI at Tesla & Founding Scientist OpenAI",
+      "summary": "Passionate about deep neural networks, computer vision, robotics, and reimagining education from first principles.",
+      "experience": [
+        "Eureka Labs (Founder, 2024-Present)",
+        "Tesla (Director of AI, 2017-2022)",
+        "OpenAI (Research Scientist)"
+      ],
+      "education": [
+        "Stanford University (PhD Computer Science)",
+        "University of British Columbia (MSc)",
+        "University of Toronto (BSc)"
+      ],
+      "skills": [
+        "Deep Learning",
+        "PyTorch & C Architecture",
+        "Computer Vision",
+        "Technical Pedagogy",
+        "First Principles Thinking"
+      ],
+      "publicInterests": [
+        "Rubik’s Cubes",
+        "Gym & Fitness",
+        "Synthesizers",
+        "Sci-Fi Literature"
+      ]
+    },
+    "instagramData": {
+      "bio": "Nerding out on neural nets, code, weights, and life in the Bay Area.",
+      "captionThemes": [
+        "#EurekaLabs",
+        "#NeuralNetsZeroToHero",
+        "#FitnessHabits",
+        "#SciFi"
+      ],
+      "observableActivities": [
+        "Gym strength training",
+        "Coding marathons on streams",
+        "Casual Bay Area walks with audiobooks"
+      ],
+      "publicInterests": [
+        "Lifting weights",
+        "Modular music synths",
+        "Sci-fi novels (Greg Egan, Ted Chiang)",
+        "Espresso"
+      ]
+    },
+    "analysis": {
+      "personId": "person_005",
+      "profession": "Founder at Eureka Labs & AI Researcher",
+      "interests": [
+        "Neural Networks",
+        "AI Education",
+        "Strength Training",
+        "Electronic Music",
+        "Science Fiction"
+      ],
+      "hobbies": [
+        "Speedcubing",
+        "Experimenting with analog synthesizers",
+        "Gym workouts",
+        "Reading hard sci-fi"
+      ],
+      "lifestyleSignals": [
+        "Deep-work flow states",
+        "Disciplined fitness routine",
+        "Unpretentious and approachable"
+      ],
+      "communicationStyle": [
+        "Crystal clear",
+        "Enthusiastic",
+        "First-principles",
+        "Humorous"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects effortlessly with people passionate about mastering crafts and sharing knowledge",
+        "Enjoys co-working sessions followed by casual workouts or coffee"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Non-public personal timeline"
+      ],
+      "evidence": [
+        {
+          "attribute": "Pedagogy & Deep Learning Mastery",
+          "source": "linkedin",
+          "supportingInformation": "Created cs231n at Stanford; former Tesla Director of AI; founder of Eureka Labs",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Fitness & Synths",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts sharing gym milestones and music experimentation",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A world-class AI researcher and master teacher with infectious curiosity, disciplined fitness habits, and a love for synthesizers."
+    },
+    "createdAt": "2026-01-10T10:20:00Z"
+  },
+  {
+    "id": "person_006",
+    "name": "Lex Fridman",
+    "handle": "@lexfridman",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/lexfridman",
+    "instagramUrl": "https://www.instagram.com/lexfridman",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: MIT research associate, Brazilian Jiu-Jitsu black belt, and eponymous podcast host.",
+    "linkedinData": {
+      "headline": "Research Scientist at MIT | Host of Lex Fridman Podcast",
+      "summary": "Researching human-robot interaction, autonomous vehicles, and machine learning at MIT. Exploring deep questions of love, consciousness, and history.",
+      "experience": [
+        "MIT (Research Scientist)",
+        "Lex Fridman Podcast (Host)",
+        "Google (Machine Learning Researcher)"
+      ],
+      "education": [
+        "Drexel University (PhD Computer Science)",
+        "Drexel University (BS & MS Computer Science)"
+      ],
+      "skills": [
+        "Human-Centered AI",
+        "Autonomous Vehicles",
+        "Long-form Interviews",
+        "Philosophy",
+        "Martial Arts"
+      ],
+      "publicInterests": [
+        "Brazilian Jiu-Jitsu",
+        "Guitar & Blues Music",
+        "Russian Literature (Dostoevsky, Tolstoy)",
+        "Judo"
+      ]
+    },
+    "instagramData": {
+      "bio": "Scientist, podcaster, BJJ black belt, guitar player. Trying to understand the universe and the human condition with love.",
+      "captionThemes": [
+        "#BJJTraining",
+        "#GuitarJam",
+        "#ReadingList",
+        "#LongFormTalks"
+      ],
+      "observableActivities": [
+        "Jiu-jitsu sparring",
+        "Playing acoustic and electric guitar",
+        "Intensive book reading"
+      ],
+      "publicInterests": [
+        "Martial arts",
+        "Blues guitar",
+        "Classic literature",
+        "Cold plunges & running"
+      ]
+    },
+    "analysis": {
+      "personId": "person_006",
+      "profession": "Research Scientist at MIT & Podcast Host",
+      "interests": [
+        "Robotics",
+        "Philosophy",
+        "Brazilian Jiu-Jitsu",
+        "Guitar Performance",
+        "Russian Literature"
+      ],
+      "hobbies": [
+        "Playing blues guitar",
+        "BJJ sparring and grappling",
+        "Long distance running",
+        "Reading heavy classics"
+      ],
+      "lifestyleSignals": [
+        "Intense daily discipline (monastic schedule)",
+        "Black suit uniform aesthetic",
+        "Deep empathy and romantic idealism"
+      ],
+      "communicationStyle": [
+        "Introspective",
+        "Patient",
+        "Deeply sincere",
+        "Gentle"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with emotionally deep, authentic, and disciplined individuals",
+        "Cherishes late-night conversations on consciousness, art, and poetry"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Current dating status",
+        "Private residential details"
+      ],
+      "evidence": [
+        {
+          "attribute": "Academic & Podcasting Credentials",
+          "source": "linkedin",
+          "supportingInformation": "Research Scientist at MIT; host of eponymous podcast on science, AI and philosophy",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Martial Arts & Music Evidenced",
+          "source": "instagram",
+          "supportingInformation": "Public Instagram feed extensively features BJJ sparring videos and guitar performances",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An introspective MIT roboticist and long-form conversationalist who combines black-belt martial arts discipline with soulful guitar playing and romantic philosophy."
+    },
+    "createdAt": "2026-01-10T10:25:00Z"
+  },
+  {
+    "id": "person_007",
+    "name": "Marques Brownlee",
+    "handle": "@mkbhd",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/marquesbrownlee",
+    "instagramUrl": "https://www.instagram.com/mkbhd",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: MKBHD brand founder, professional Ultimate frisbee player, and tech media producer.",
+    "linkedinData": {
+      "headline": "Creator and Founder at MKBHD | Producer at Waveform Podcast",
+      "summary": "Tech reviewer, digital creator, and video producer covering smartphones, electric vehicles, and future tech hardware with cinematic production standards.",
+      "experience": [
+        "MKBHD Productions (Founder & Host, 2008-Present)",
+        "Waveform Podcast (Host)",
+        "Professional Ultimate Frisbee (NY Empire)"
+      ],
+      "education": [
+        "Stevens Institute of Technology (BS Business & Technology)"
+      ],
+      "skills": [
+        "Cinematography",
+        "Hardware Analysis",
+        "Electric Vehicles",
+        "Consumer Tech Reviews",
+        "Digital Media Strategy"
+      ],
+      "publicInterests": [
+        "Ultimate Frisbee",
+        "RED Cameras & Color Grading",
+        "Electric Cars",
+        "Sneakers & Streetwear"
+      ]
+    },
+    "instagramData": {
+      "bio": "Crisp tech videos. Professional Ultimate frisbee player. Matte black everything.",
+      "captionThemes": [
+        "#MKBHD",
+        "#UltimateFrisbee",
+        "#MatteBlack",
+        "#ElectricVehicles"
+      ],
+      "observableActivities": [
+        "Ultimate frisbee tournaments",
+        "Studio camera setups",
+        "Reviewing gadgets on road trips"
+      ],
+      "publicInterests": [
+        "Ultimate Frisbee",
+        "Minimalist aesthetics",
+        "Sneaker collecting",
+        "Coffee"
+      ]
+    },
+    "analysis": {
+      "personId": "person_007",
+      "profession": "Creator, Founder at MKBHD & Pro Athlete",
+      "interests": [
+        "Consumer Hardware",
+        "Cinematography",
+        "Ultimate Frisbee",
+        "Electric Vehicles",
+        "Minimalist Design"
+      ],
+      "hobbies": [
+        "Competitive Ultimate frisbee",
+        "Curating sneakers and tech setups",
+        "Specialty coffee appreciation"
+      ],
+      "lifestyleSignals": [
+        "High athletic dedication",
+        "Matte black aesthetic consistency",
+        "Studio-centric creative production"
+      ],
+      "communicationStyle": [
+        "Crisp",
+        "Direct",
+        "Engaging",
+        "Balanced"
+      ],
+      "potentialCompatibilityFactors": [
+        "Matches well with athletic, creative, and detail-oriented partners",
+        "Enjoys an active weekend outdoors followed by film or design appreciation"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic details",
+        "Domestic routines outside athletics and studio"
+      ],
+      "evidence": [
+        {
+          "attribute": "Tech Media Authority",
+          "source": "linkedin",
+          "supportingInformation": "Founder of MKBHD with 15+ years of cinematic technology evaluation",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Pro Athletic Career & Aesthetic",
+          "source": "instagram",
+          "supportingInformation": "Instagram profile highlights \"Matte black everything\" and championship frisbee tournaments",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A premier technology creator and professional athlete known for ultra-crisp aesthetics, sportsmanship, and an obsession with quality hardware."
+    },
+    "createdAt": "2026-01-10T10:30:00Z"
+  },
+  {
+    "id": "person_008",
+    "name": "Brian Chesky",
+    "handle": "@bchesky",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/brianchesky",
+    "instagramUrl": "https://www.instagram.com/bchesky",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Airbnb co-founder & CEO, RISD alumni records, and public hospitality campaigns.",
+    "linkedinData": {
+      "headline": "Co-Founder & CEO at Airbnb",
+      "summary": "Industrial designer turned technology entrepreneur. Redefining global travel, community hospitality, and design-led product development.",
+      "experience": [
+        "Airbnb (Co-Founder & CEO, 2008-Present)",
+        "Industrial Designer (Los Angeles)"
+      ],
+      "education": [
+        "Rhode Island School of Design (RISD, BFA Industrial Design)"
+      ],
+      "skills": [
+        "Product Design",
+        "Hospitality Experience",
+        "Brand Storytelling",
+        "Culture Building",
+        "Creative Direction"
+      ],
+      "publicInterests": [
+        "Architecture",
+        "Golden Retrievers",
+        "Bodybuilding History",
+        "Interior Design"
+      ]
+    },
+    "instagramData": {
+      "bio": "Co-founder and CEO of Airbnb. Designer. Living in Airbnbs with my dog Sophie.",
+      "captionThemes": [
+        "#AirbnbDesign",
+        "#TravelAnywhere",
+        "#DesignFirst",
+        "#SophieTheGolden"
+      ],
+      "observableActivities": [
+        "Traveling to unique Airbnb homes",
+        "Spending time with his Golden Retriever Sophie",
+        "Sketching designs"
+      ],
+      "publicInterests": [
+        "Historic architecture",
+        "Hospitality design",
+        "Dogs",
+        "Fitness"
+      ]
+    },
+    "analysis": {
+      "personId": "person_008",
+      "profession": "Co-Founder & CEO at Airbnb",
+      "interests": [
+        "Industrial Design",
+        "Hospitality",
+        "Architecture",
+        "Global Travel",
+        "Canine Companionship"
+      ],
+      "hobbies": [
+        "Exploring architectural homes",
+        "Walking and playing with his dog Sophie",
+        "Sketching physical spaces"
+      ],
+      "lifestyleSignals": [
+        "Nomadic executive living (stays at Airbnbs)",
+        "Design-obsessed aesthetics",
+        "Warm, welcoming demeanor"
+      ],
+      "communicationStyle": [
+        "Inspiring",
+        "Narrative-driven",
+        "Warm",
+        "Design-centric"
+      ],
+      "potentialCompatibilityFactors": [
+        "Attracted to creative souls, designers, and lovers of spontaneous travel",
+        "Must love dogs and appreciate architectural beauty in everyday life"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Long-term permanent residence preference"
+      ],
+      "evidence": [
+        {
+          "attribute": "Design & Hospitality Leadership",
+          "source": "linkedin",
+          "supportingInformation": "RISD Industrial Design graduate who founded and leads Airbnb as CEO",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Nomadic Lifestyle & Dog Sophie",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio highlights \"Living in Airbnbs with my dog Sophie\" with frequent travel updates",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An industrial designer and hospitality pioneer who lives out of architectural homes with his golden retriever while championing human connection."
+    },
+    "createdAt": "2026-01-10T10:35:00Z"
+  },
+  {
+    "id": "person_009",
+    "name": "Melanie Perkins",
+    "handle": "@melaniecanva",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/melanieperkins",
+    "instagramUrl": "https://www.instagram.com/melaniecanva",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Canva Co-founder & CEO, public keynote speaker, and Fusion Books founder history.",
+    "linkedinData": {
+      "headline": "Co-Founder & CEO at Canva",
+      "summary": "Empowering the world to design. Dedicated to democratizing visual communication and pledging majority wealth to end global poverty.",
+      "experience": [
+        "Canva (Co-Founder & CEO, 2012-Present)",
+        "Fusion Books (Co-Founder & CEO, 2007-2012)"
+      ],
+      "education": [
+        "University of Western Australia (Communications & Commerce)"
+      ],
+      "skills": [
+        "Visual Design Strategy",
+        "Product Scalability",
+        "Social Impact Philanthropy",
+        "Entrepreneurship"
+      ],
+      "publicInterests": [
+        "Kitesurfing",
+        "Visual Arts",
+        "Global Philanthropy",
+        "Sustainable Communities"
+      ]
+    },
+    "instagramData": {
+      "bio": "Co-founder & CEO of Canva. Lover of adventure, kitesurfing, design, and empowering everyone to be creative.",
+      "captionThemes": [
+        "#CanvaLove",
+        "#KitesurfingAdventures",
+        "#DesignForGood",
+        "#TeamCanva"
+      ],
+      "observableActivities": [
+        "Kitesurfing in windy bays",
+        "Traveling with family & teammates",
+        "Sketching product features"
+      ],
+      "publicInterests": [
+        "Kitesurfing",
+        "Ocean conservation",
+        "Visual storytelling",
+        "Outdoor adventures"
+      ]
+    },
+    "analysis": {
+      "personId": "person_009",
+      "profession": "Co-Founder & CEO at Canva",
+      "interests": [
+        "Visual Design",
+        "Kitesurfing",
+        "Philanthropy & Poverty Alleviation",
+        "Global Team Culture"
+      ],
+      "hobbies": [
+        "Kitesurfing and water sports",
+        "Designing creative templates",
+        "Exploring coastal nature"
+      ],
+      "lifestyleSignals": [
+        "Adventure sports enthusiast",
+        "Deep commitment to giving back",
+        "Humble and purpose-driven"
+      ],
+      "communicationStyle": [
+        "Empowering",
+        "Enthusiastic",
+        "Visionary",
+        "Warm"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects with high-integrity, adventurous individuals who care about positive global impact",
+        "Loves active outdoor dates like seaside sports or relaxed coastal walks"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private marital/dating boundaries (treated respectfully)",
+        "Private weekend schedules"
+      ],
+      "evidence": [
+        {
+          "attribute": "Design Democratization & Philanthropy",
+          "source": "linkedin",
+          "supportingInformation": "CEO of Canva; pledged substantial equity toward ending extreme poverty",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Kitesurfing & Ocean Adventure",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio highlights kitesurfing passion with action photos on the water",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An adventurous, purpose-driven tech CEO who pairs kitesurfing and ocean adventures with a generational mission to democratize visual creativity."
+    },
+    "createdAt": "2026-01-10T10:40:00Z"
+  },
+  {
+    "id": "person_010",
+    "name": "Whitney Wolfe Herd",
+    "handle": "@whitney",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/whitney-wolfe-herd-95026938",
+    "instagramUrl": "https://www.instagram.com/whitney",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Bumble Founder & Executive Chair, SMU graduate and women-in-tech advocate.",
+    "linkedinData": {
+      "headline": "Founder & Executive Chair at Bumble",
+      "summary": "Championing equality, healthy relationship dynamics, and female empowerment through modern social platforms. Youngest female founder to take a company public in the US.",
+      "experience": [
+        "Bumble (Founder & Executive Chair)",
+        "Bumble (CEO, 2014-2024)",
+        "Tinder (Co-Founder & VP Marketing)"
+      ],
+      "education": [
+        "Southern Methodist University (SMU, BA International Studies)"
+      ],
+      "skills": [
+        "Social Connection Platforms",
+        "Brand Building",
+        "Advocacy & Public Policy",
+        "Consumer Internet"
+      ],
+      "publicInterests": [
+        "Female Entrepreneurship",
+        "Healthy Relationship Dynamics",
+        "Interior Styling",
+        "Cooking"
+      ]
+    },
+    "instagramData": {
+      "bio": "Mom, Founder & Executive Chair @Bumble. Passionate about women making the first move in life and love.",
+      "captionThemes": [
+        "#MakeTheFirstMove",
+        "#FemaleEmpowerment",
+        "#FamilyMoments",
+        "#HealthyConnections"
+      ],
+      "observableActivities": [
+        "Cooking wholesome dinners",
+        "Attending leadership summits",
+        "Spending time outdoors with kids"
+      ],
+      "publicInterests": [
+        "Culinary arts",
+        "Wellness",
+        "Childhood literacy",
+        "Interior design"
+      ]
+    },
+    "analysis": {
+      "personId": "person_010",
+      "profession": "Founder & Executive Chair at Bumble",
+      "interests": [
+        "Relationship Psychology",
+        "Social Technology",
+        "Culinary Arts",
+        "Wellness & Mindfulness",
+        "Design"
+      ],
+      "hobbies": [
+        "Home cooking and hosting friends",
+        "Pilates and wellness routines",
+        "Curating interior aesthetics"
+      ],
+      "lifestyleSignals": [
+        "Family and community centric",
+        "Values mutual respect and healthy communication",
+        "Refined taste"
+      ],
+      "communicationStyle": [
+        "Empathetic",
+        "Encouraging",
+        "Direct",
+        "Polished"
+      ],
+      "potentialCompatibilityFactors": [
+        "Values partners with strong emotional intelligence, kindness, and clear communication",
+        "Enjoys warm dinner conversations, good food, and shared values around mutual respect"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private marital details (respectfully kept private)",
+        "Personal daily schedule"
+      ],
+      "evidence": [
+        {
+          "attribute": "Relationship Dynamics & Tech Founder",
+          "source": "linkedin",
+          "supportingInformation": "Pioneered women-first dynamics on Bumble; took company public on NASDAQ",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Culinary & Wellness Focus",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts sharing healthy cooking recipes, family moments, and wellness",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A trailblazing entrepreneur in modern relationships and social dynamics who values emotional intelligence, good food, and mutual empowerment."
+    },
+    "createdAt": "2026-01-10T10:45:00Z"
+  },
+  {
+    "id": "person_011",
+    "name": "Tim Cook",
+    "handle": "@tim_cook",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/tim-cook-16b712282",
+    "instagramUrl": "https://www.instagram.com/tim_cook",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Official Apple CEO verified accounts, Auburn and Duke alum records.",
+    "linkedinData": {
+      "headline": "CEO at Apple",
+      "summary": "Leading Apple in designing products that enrich people's lives while advancing renewable energy, privacy rights, and educational opportunity.",
+      "experience": [
+        "Apple (CEO, 2011-Present)",
+        "Apple (COO)",
+        "Compaq (VP Corporate Materials)",
+        "IBM (Director of North American Fulfillment)"
+      ],
+      "education": [
+        "Duke University Fuqua School of Business (MBA)",
+        "Auburn University (BS Industrial Engineering)"
+      ],
+      "skills": [
+        "Supply Chain Excellence",
+        "Hardware & Software Integration",
+        "Environmental Stewardship",
+        "Data Privacy"
+      ],
+      "publicInterests": [
+        "Auburn Football",
+        "National Parks Hiking",
+        "Cycling",
+        "Renewable Energy"
+      ]
+    },
+    "instagramData": {
+      "bio": "CEO of Apple. Outdoorsman. Auburn Tigers fan. Believer in leaving the world better than we found it.",
+      "captionThemes": [
+        "#ShotOniPhone",
+        "#AuburnTigers",
+        "#NationalParks",
+        "#AppleKeynote"
+      ],
+      "observableActivities": [
+        "Morning gym workouts",
+        "Hiking in Yosemite and Zion National Parks",
+        "Attending college football games"
+      ],
+      "publicInterests": [
+        "National parks preservation",
+        "Cycling",
+        "College football",
+        "Privacy advocacy"
+      ]
+    },
+    "analysis": {
+      "personId": "person_011",
+      "profession": "CEO at Apple",
+      "interests": [
+        "Industrial Engineering",
+        "National Parks & Hiking",
+        "Cycling",
+        "College Football (Auburn)",
+        "Environmental Sustainability"
+      ],
+      "hobbies": [
+        "Hiking scenic national park trails",
+        "Road cycling",
+        "Following Auburn sports"
+      ],
+      "lifestyleSignals": [
+        "Early morning riser (legendary 4 AM workout discipline)",
+        "Uncompromising privacy advocate",
+        "Deep connection to nature"
+      ],
+      "communicationStyle": [
+        "Deliberate",
+        "Respectful",
+        "Principled",
+        "Concise"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with disciplined, outdoor-loving partners who value integrity and calm consistency",
+        "Appreciates hikes in natural wilderness over noisy social events"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private dating life (strictly protected)",
+        "Off-grid vacation spots"
+      ],
+      "evidence": [
+        {
+          "attribute": "Global Supply & Corporate Leadership",
+          "source": "linkedin",
+          "supportingInformation": "CEO of Apple; leader in carbon neutrality commitments and consumer privacy standards",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Outdoorsman & National Parks",
+          "source": "instagram",
+          "supportingInformation": "Public Instagram bio describes \"Outdoorsman\" with multiple hiking and park photos",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A principled executive and devoted outdoorsman who combines world-class operational discipline with a passion for national parks and cycling."
+    },
+    "createdAt": "2026-01-10T10:50:00Z"
+  },
+  {
+    "id": "person_012",
+    "name": "Jensen Huang",
+    "handle": "@jensenhuang.nvidia",
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/jenhsunhuang",
+    "instagramUrl": "https://www.instagram.com/jensenhuang.nvidia",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: NVIDIA Founder & CEO, signature leather jacket presentations and Stanford MS alumni records.",
+    "linkedinData": {
+      "headline": "Founder, President & CEO at NVIDIA",
+      "summary": "Pioneered GPU computing and accelerated computing architectures powering the modern AI industrial revolution.",
+      "experience": [
+        "NVIDIA (Founder, President & CEO, 1993-Present)",
+        "LSI Logic (Coreware Director)",
+        "AMD (Microprocessor Designer)"
+      ],
+      "education": [
+        "Stanford University (MS Electrical Engineering)",
+        "Oregon State University (BS Electrical Engineering)"
+      ],
+      "skills": [
+        "Accelerated Computing",
+        "GPU Microarchitecture",
+        "Full-Stack AI Platforms",
+        "Robotics & Omniverse"
+      ],
+      "publicInterests": [
+        "Table Tennis",
+        "Culinary Cooking",
+        "Architecture & Microchips",
+        "Rock Music"
+      ]
+    },
+    "instagramData": {
+      "bio": "Founder & CEO of NVIDIA. Accelerated computing, AI, gaming, and the future of science.",
+      "captionThemes": [
+        "#NVIDIAGTC",
+        "#Blackwell",
+        "#LeatherJacketStyle",
+        "#AcceleratedComputing"
+      ],
+      "observableActivities": [
+        "Cooking dinner for family",
+        "Playing table tennis",
+        "Presenting high-energy keynotes"
+      ],
+      "publicInterests": [
+        "Table tennis (former junior ranked)",
+        "Signature leather jackets",
+        "Culinary experimentation",
+        "Silicon design"
+      ]
+    },
+    "analysis": {
+      "personId": "person_012",
+      "profession": "Founder, President & CEO at NVIDIA",
+      "interests": [
+        "Accelerated Computing",
+        "Artificial Intelligence",
+        "Table Tennis",
+        "Culinary Arts",
+        "Semiconductor Physics"
+      ],
+      "hobbies": [
+        "Table tennis matches",
+        "Home cooking and stir-fry techniques",
+        "Collecting distinctive leather jackets"
+      ],
+      "lifestyleSignals": [
+        "Signature personal style (leather jacket uniform)",
+        "High stamina and relentless optimism",
+        "Family-first off-hours"
+      ],
+      "communicationStyle": [
+        "High-energy",
+        "Storyteller",
+        "Passionate",
+        "Deeply technical yet relatable"
+      ],
+      "potentialCompatibilityFactors": [
+        "Thrives with energetic, intellectually fiery partners who celebrate bold ambition",
+        "Enjoys home-cooked dinners paired with lively discussions on physics and creativity"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Personal downtime routines"
+      ],
+      "evidence": [
+        {
+          "attribute": "Semiconductor & AI Architecture",
+          "source": "linkedin",
+          "supportingInformation": "Founded NVIDIA in 1993; transformed modern computing with CUDA and GPU platforms",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Table Tennis & Cooking Interests",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts and interview highlights on table tennis history and passion for cooking",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A dynamic, leather-jacket-sporting tech visionary who balances monumental semiconductor ambition with competitive table tennis and culinary flair."
+    },
+    "createdAt": "2026-01-10T10:55:00Z"
+  },
+  {
+    "id": "person_013",
+    "name": "Sara Blakely",
+    "handle": "@sarablakely",
+    "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/sarablakely27",
+    "instagramUrl": "https://www.instagram.com/sarablakely",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Spanx and Sneex founder, self-made entrepreneurship record and documented social posts.",
+    "linkedinData": {
+      "headline": "Founder at SPANX and Sneex | Investor & Philanthropist",
+      "summary": "Self-made entrepreneur who started SPANX with $5,000 in savings. Dedicated to empowering women through innovative product design, laughter, and courage.",
+      "experience": [
+        "SPANX (Founder & Executive Chairwoman)",
+        "Sneex (Founder)",
+        "The Sara Blakely Foundation (Founder)"
+      ],
+      "education": [
+        "Florida State University (BS Communications)"
+      ],
+      "skills": [
+        "Consumer Goods Innovation",
+        "Guerrilla Marketing",
+        "Creative Resilience",
+        "Brand Authenticity"
+      ],
+      "publicInterests": [
+        "Comedy & Stand-up",
+        "Inventing",
+        "Pancake Art",
+        "Supporting Women Entrepreneurs"
+      ]
+    },
+    "instagramData": {
+      "bio": "Mom of 4. Founder of Spanx & Sneex. Believer in failing forward and laughing at yourself daily.",
+      "captionThemes": [
+        "#FailingForward",
+        "#PancakeArt",
+        "#Sneex",
+        "#LaughAtYourself"
+      ],
+      "observableActivities": [
+        "Making elaborate pancake art with kids",
+        "Sharing candid self-deprecating video bloopers",
+        "Inventing shoe designs"
+      ],
+      "publicInterests": [
+        "Improv comedy",
+        "Pancake designs",
+        "Comfortable footwear",
+        "Motivational coaching"
+      ]
+    },
+    "analysis": {
+      "personId": "person_013",
+      "profession": "Founder at SPANX and Sneex",
+      "interests": [
+        "Product Invention",
+        "Stand-up Comedy",
+        "Pancake Art",
+        "Female Entrepreneurship",
+        "Fashion Technology"
+      ],
+      "hobbies": [
+        "Creating pancake art sculptures",
+        "Storytelling and improv",
+        "Designing ergonomic fashion products"
+      ],
+      "lifestyleSignals": [
+        "Joyful, self-deprecating humor",
+        "Spontaneous and creative energy",
+        "Embraces vulnerability as strength"
+      ],
+      "communicationStyle": [
+        "Hilarious",
+        "Warm",
+        "Candid",
+        "Unstoppable"
+      ],
+      "potentialCompatibilityFactors": [
+        "Craves partners who don't take themselves too seriously and love genuine belly laughs",
+        "Appreciates creativity, playfulness, and emotional security"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Daily personal downtime schedules"
+      ],
+      "evidence": [
+        {
+          "attribute": "Self-Made Invention & Product Innovation",
+          "source": "linkedin",
+          "supportingInformation": "Turned $5,000 into multi-billion dollar apparel brand SPANX without outside capital",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Humor & Pancake Art Creativity",
+          "source": "instagram",
+          "supportingInformation": "Instagram feed filled with viral pancake art Sunday mornings and humorous daily observations",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A radiant self-made inventor and entrepreneur whose infectious sense of humor, creative pancake art, and fearless resilience light up any room."
+    },
+    "createdAt": "2026-01-10T11:00:00Z"
+  },
+  {
+    "id": "person_014",
+    "name": "Alexis Ohanian",
+    "handle": "@alexisohanian",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/alexisohanian",
+    "instagramUrl": "https://www.instagram.com/alexisohanian",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Reddit co-founder, Seven Seven Six founder, Angel City FC co-owner.",
+    "linkedinData": {
+      "headline": "Founder & General Partner at Seven Seven Six | Co-Founder of Reddit",
+      "summary": "Venture capitalist investing in founders building the future of software, climate tech, and women's sports. Dedicated to paid family leave advocacy.",
+      "experience": [
+        "Seven Seven Six (Founder & GP, 2020-Present)",
+        "Reddit (Co-Founder & Executive Chairman)",
+        "Initialized Capital (Founding Partner)"
+      ],
+      "education": [
+        "University of Virginia (BA History & Commerce)"
+      ],
+      "skills": [
+        "Early-Stage Venture Investing",
+        "Community Internet Culture",
+        "Sports Franchise Leadership",
+        "Family Leave Policy"
+      ],
+      "publicInterests": [
+        "Women’s Soccer (Angel City FC)",
+        "Trading Card Collecting",
+        "Gaming & Pop Culture",
+        "Waffles & Grilling"
+      ]
+    },
+    "instagramData": {
+      "bio": "Business dad. Founder @SevenSevenSix. Co-founder @Reddit. @AngelCityFC owner. Papa to Olympia & Adira.",
+      "captionThemes": [
+        "#BusinessDad",
+        "#AngelCityFC",
+        "#TradingCards",
+        "#PancakeSundays"
+      ],
+      "observableActivities": [
+        "Cheering at women's soccer matches",
+        "Cooking weekend breakfasts",
+        "Trading card unboxings"
+      ],
+      "publicInterests": [
+        "Trading cards",
+        "Women’s athletics",
+        "Retro gaming",
+        "Outdoor barbecue"
+      ]
+    },
+    "analysis": {
+      "personId": "person_014",
+      "profession": "Founder & GP at Seven Seven Six & Reddit Co-Founder",
+      "interests": [
+        "Venture Capital",
+        "Women’s Sports",
+        "Trading Cards & Collectibles",
+        "Internet Culture",
+        "Culinary Grilling"
+      ],
+      "hobbies": [
+        "Collecting rare vintage cards",
+        "Cheering at live sports games",
+        "Cooking gourmet waffles and BBQ",
+        "Video gaming"
+      ],
+      "lifestyleSignals": [
+        "Proud \"Business Dad\" aesthetic",
+        "High passion for gender equity in sports",
+        "Tech-forward and geeky"
+      ],
+      "communicationStyle": [
+        "Enthusiastic",
+        "Playful",
+        "Expressive",
+        "Supportive"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with partners who are ambitious, sports-minded, and love nerdy pop culture",
+        "Enjoys Sunday morning breakfast traditions and lively discussions on internet trends"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic details (respectfully withheld)",
+        "Private travel schedules"
+      ],
+      "evidence": [
+        {
+          "attribute": "Internet Culture & Venture Builder",
+          "source": "linkedin",
+          "supportingInformation": "Co-founded Reddit in 2005; leads 776 fund investing in frontier tech and sports",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Sports Ownership & Geek Hobbies",
+          "source": "instagram",
+          "supportingInformation": "Public Instagram highlights Angel City FC ownership, card collecting, and culinary cooking",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A high-energy venture builder and sports owner who balances frontier tech investments with a joyful passion for trading cards, cooking, and athletics."
+    },
+    "createdAt": "2026-01-10T11:05:00Z"
+  },
+  {
+    "id": "person_015",
+    "name": "Yann LeCun",
+    "handle": "@yannlecun",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/yann-lecun",
+    "instagramUrl": "https://www.instagram.com/yannlecun",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Turing Award Laureate, Meta VP & Chief AI Scientist, NYU Silver Professor.",
+    "linkedinData": {
+      "headline": "VP & Chief AI Scientist at Meta | Silver Professor at NYU",
+      "summary": "2018 ACM A.M. Turing Award laureate. Pioneer of Convolutional Neural Networks, self-supervised learning, and World Models (JEPA).",
+      "experience": [
+        "Meta (VP & Chief AI Scientist, 2013-Present)",
+        "New York University (Silver Professor of CS & Neural Science)",
+        "Bell Labs (Head of Image Processing)"
+      ],
+      "education": [
+        "Sorbonne Université / ESIEE Paris (PhD Computer Science)"
+      ],
+      "skills": [
+        "Computer Vision",
+        "Convolutional Networks",
+        "World Models & JEPA",
+        "Open Source AI",
+        "Scientific Research"
+      ],
+      "publicInterests": [
+        "Jazz Saxophone",
+        "French Pastry Baking",
+        "Sailing & Windsurfing",
+        "Aviation & Gliding"
+      ]
+    },
+    "instagramData": {
+      "bio": "Chief AI Scientist @Meta, Professor @NYU. Sailing, music, pastry, aviation, science.",
+      "captionThemes": [
+        "#OpenScience",
+        "#JazzVibes",
+        "#SailingLife",
+        "#PastryArts"
+      ],
+      "observableActivities": [
+        "Baking French bread & pastries",
+        "Playing jazz saxophone",
+        "Sailing boats on open waters"
+      ],
+      "publicInterests": [
+        "Jazz music",
+        "Sailing",
+        "French culinary baking",
+        "Soaring & gliders"
+      ]
+    },
+    "analysis": {
+      "personId": "person_015",
+      "profession": "VP & Chief AI Scientist at Meta | Turing Award Laureate",
+      "interests": [
+        "Deep Learning & JEPA",
+        "Jazz Saxophone",
+        "French Baking & Pastry",
+        "Sailing",
+        "Open Science"
+      ],
+      "hobbies": [
+        "Playing tenor saxophone",
+        "Baking artisan sourdough and croissants",
+        "Sailing along coastlines"
+      ],
+      "lifestyleSignals": [
+        "European intellectual heritage",
+        "Passion for open-source and open scientific debate",
+        "Artistic pursuits alongside math"
+      ],
+      "communicationStyle": [
+        "Witty",
+        "Academically rigorous",
+        "Debative",
+        "Charming"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects deeply with cultured, intellectually fearless individuals who love music and good cuisine",
+        "Enjoys long dinners with rich wine, fresh pastry, and scientific discourse"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Non-academic private life"
+      ],
+      "evidence": [
+        {
+          "attribute": "Turing Award & Scientific Pioneer",
+          "source": "linkedin",
+          "supportingInformation": "Turing Award winner for convolutional neural nets; Chief AI Scientist Meta",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Jazz Saxophone & Sailing Life",
+          "source": "instagram",
+          "supportingInformation": "Instagram profile bio and posts highlighting jazz music, pastry baking, and sailing",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A celebrated Turing Award AI scientist who pairs pioneering neural network theory with a warm French zest for jazz saxophone, sailing, and artisan pastry baking."
+    },
+    "createdAt": "2026-01-10T11:10:00Z"
+  },
+  {
+    "id": "person_016",
+    "name": "Andrew Ng",
+    "handle": "@andrewng_ai",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/andrewngai",
+    "instagramUrl": "https://www.instagram.com/andrewng_ai",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Coursera co-founder, DeepLearning.AI founder, Stanford adjunct professor.",
+    "linkedinData": {
+      "headline": "Founder at DeepLearning.AI | Managing General Partner at AI Fund | Stanford Adjunct Professor",
+      "summary": "Dedicated to helping everyone succeed in the AI era through high-quality education and venture building. Taught over 8 million people machine learning.",
+      "experience": [
+        "DeepLearning.AI (Founder & CEO)",
+        "Coursera (Co-Founder & Co-Chairman)",
+        "Google Brain (Founder & Lead)",
+        "Baidu (Chief Scientist)"
+      ],
+      "education": [
+        "UC Berkeley (PhD Computer Science)",
+        "MIT (MS EECS)",
+        "Carnegie Mellon University (BS CS & Stats)"
+      ],
+      "skills": [
+        "AI Education",
+        "Machine Learning Engineering",
+        "Venture Studio Building",
+        "Data-Centric AI"
+      ],
+      "publicInterests": [
+        "Education Access",
+        "Hiking",
+        "Tea & Coffee Culture",
+        "Reading History"
+      ]
+    },
+    "instagramData": {
+      "bio": "AI educator, builder, dad. Founder of DeepLearning.AI and Coursera. Working to empower people with AI.",
+      "captionThemes": [
+        "#LearnAI",
+        "#AIForEveryone",
+        "#DeepLearningAI",
+        "#TeaBreaks"
+      ],
+      "observableActivities": [
+        "Teaching workshops",
+        "Reading papers with tea",
+        "Family nature walks"
+      ],
+      "publicInterests": [
+        "Tea ceremony",
+        "Nature hiking",
+        "Educational psychology",
+        "AI safety"
+      ]
+    },
+    "analysis": {
+      "personId": "person_016",
+      "profession": "Founder at DeepLearning.AI & Coursera Co-Founder",
+      "interests": [
+        "Artificial Intelligence",
+        "Education Equity",
+        "Tea Culture",
+        "Nature Hiking",
+        "History of Science"
+      ],
+      "hobbies": [
+        "Brewing artisanal teas",
+        "Hiking tranquil trails",
+        "Mentoring aspiring engineers"
+      ],
+      "lifestyleSignals": [
+        "Gentle, encouraging demeanor",
+        "Lifelong teacher mindset",
+        "Calm and steady presence"
+      ],
+      "communicationStyle": [
+        "Patient",
+        "Supportive",
+        "Clear",
+        "Thoughtful"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with calm, supportive partners who value education and kindness",
+        "Enjoys quiet tea dates and discussions on human potential and learning"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Personal evening habits"
+      ],
+      "evidence": [
+        {
+          "attribute": "Global Educator & AI Leader",
+          "source": "linkedin",
+          "supportingInformation": "Founded Google Brain, co-founded Coursera; educated millions in machine learning",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Tea Culture & Peaceful Demeanor",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts highlighting tea ceremonies and quiet study moments",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A globally revered educator and pioneer who brings infinite patience, calm wisdom, and a love for fine tea and quiet trails to every conversation."
+    },
+    "createdAt": "2026-01-10T11:15:00Z"
+  },
+  {
+    "id": "person_017",
+    "name": "Fei-Fei Li",
+    "handle": "@drfeifeili",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/fei-fei-li-4541247",
+    "instagramUrl": "https://www.instagram.com/drfeifeili",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: ImageNet creator, Stanford HAI Co-Director, National Academy of Engineering member.",
+    "linkedinData": {
+      "headline": "Professor of Computer Science at Stanford | Co-Director, Stanford Human-Centered AI Institute",
+      "summary": "Inventor of ImageNet, pioneering computer vision, spatial intelligence, and human-centered AI that honors human dignity and empathy.",
+      "experience": [
+        "Stanford University (Professor & Co-Director HAI)",
+        "Google Cloud (Chief Scientist AI/ML)",
+        "World Labs (Co-Founder & CEO)"
+      ],
+      "education": [
+        "California Institute of Technology (Caltech, PhD Electrical Engineering)",
+        "Princeton University (BA Physics)"
+      ],
+      "skills": [
+        "Spatial Intelligence",
+        "Computer Vision & ImageNet",
+        "Human-Centered Ethics",
+        "Physics & Neuroscience"
+      ],
+      "publicInterests": [
+        "Memoir Writing",
+        "Gardening & Flowers",
+        "Classical Painting",
+        "Immigrant Stories"
+      ]
+    },
+    "instagramData": {
+      "bio": "Scientist, author, Stanford professor. Believer in human-centered technology and spatial intelligence.",
+      "captionThemes": [
+        "#HumanCenteredAI",
+        "#TheWorldsICouldSee",
+        "#NatureAndScience",
+        "#StanfordAI"
+      ],
+      "observableActivities": [
+        "Tending to home garden roses",
+        "Book signings & academic keynotes",
+        "Nature walks around Stanford campus"
+      ],
+      "publicInterests": [
+        "Gardening",
+        "Art history",
+        "Physics books",
+        "Botanical photography"
+      ]
+    },
+    "analysis": {
+      "personId": "person_017",
+      "profession": "Professor at Stanford & Co-Director Stanford HAI",
+      "interests": [
+        "Spatial Intelligence",
+        "Human-Centered AI",
+        "Botany & Gardening",
+        "Art History",
+        "Physics"
+      ],
+      "hobbies": [
+        "Gardening and cultivating flowers",
+        "Botanical photography",
+        "Reading memoirs and physics history"
+      ],
+      "lifestyleSignals": [
+        "Deep humanist philosophy",
+        "Appreciation for organic beauty in nature",
+        "Intellectual elegance"
+      ],
+      "communicationStyle": [
+        "Poetic",
+        "Profound",
+        "Inspirational",
+        "Warm"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects with soulful, ethical thinkers who care deeply about humanity and the natural world",
+        "Enjoys quiet walks in botanical gardens and deep discussions on science and art"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Private personal routines"
+      ],
+      "evidence": [
+        {
+          "attribute": "ImageNet & Spatial Intelligence Pioneer",
+          "source": "linkedin",
+          "supportingInformation": "Created ImageNet, unlocking modern computer vision; Stanford HAI co-director",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Gardening & Humanist Writing",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts sharing garden photography and reflections on human dignity",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A luminary scientist and author whose revolutionary computer vision breakthroughs are matched by her profound humanism, love for gardening, and poetic eloquence."
+    },
+    "createdAt": "2026-01-10T11:20:00Z"
+  },
+  {
+    "id": "person_018",
+    "name": "Pieter Levels",
+    "handle": "@levelsio",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/pieterlevels",
+    "instagramUrl": "https://www.instagram.com/levelsio",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Creator of Nomad List, Remote OK, PhotoAI and widely documented indie hacker profile.",
+    "linkedinData": {
+      "headline": "Solo Founder & Indie Hacker (Nomad List, Remote OK, Photo AI)",
+      "summary": "Pioneered the modern digital nomad lifestyle and solopreneur movement. Building boot-strapped micro-SaaS with minimal tech stacks (PHP, SQLite, Vanilla JS).",
+      "experience": [
+        "Nomad List (Founder)",
+        "Remote OK (Founder)",
+        "Photo AI & Interior AI (Founder)"
+      ],
+      "education": [
+        "Erasmus University Rotterdam (BS Business Administration)"
+      ],
+      "skills": [
+        "Solopreneurship",
+        "Full-Stack Rapid Prototyping",
+        "Digital Nomad Communities",
+        "AI Generative Imaging"
+      ],
+      "publicInterests": [
+        "Electronic Music Production",
+        "Digital Nomad Travel",
+        "Cyberpunk Aesthetics",
+        "Specialty Coffee"
+      ]
+    },
+    "instagramData": {
+      "bio": "Solo founder. Traveling the world with a laptop. Making music, software, and photos.",
+      "captionThemes": [
+        "#DigitalNomad",
+        "#SoloFounder",
+        "#LisbonVibes",
+        "#ModularSynths"
+      ],
+      "observableActivities": [
+        "Coding in beach cafes in Lisbon or Bali",
+        "DJing electronic sets",
+        "Working out in local gyms worldwide"
+      ],
+      "publicInterests": [
+        "Synthesizers & Techno",
+        "Nomadic lifestyle",
+        "Espresso hunting",
+        "Minimalist packing"
+      ]
+    },
+    "analysis": {
+      "personId": "person_018",
+      "profession": "Solo Founder & Indie Hacker",
+      "interests": [
+        "Digital Nomadism",
+        "Solo Software Architecture",
+        "Electronic Techno Music",
+        "Coffee Culture",
+        "Travel"
+      ],
+      "hobbies": [
+        "Music synthesis & DJing",
+        "Exploring remote work cafes worldwide",
+        "Minimalist travel gear optimization"
+      ],
+      "lifestyleSignals": [
+        "Ultra-nomadic (travels between Portugal, Asia, and Europe)",
+        "Anti-bureaucracy and radical autonomy",
+        "Unfiltered and transparent"
+      ],
+      "communicationStyle": [
+        "Casual",
+        "Irreverent",
+        "Pragmatic",
+        "Fast-moving"
+      ],
+      "potentialCompatibilityFactors": [
+        "Best suited for adventurous nomads, independent creators, and free spirits",
+        "Loves spontaneous flights, rooftop cocktails, and co-working by the beach"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Current relationship status",
+        "Next travel destination"
+      ],
+      "evidence": [
+        {
+          "attribute": "Indie Hacker Solopreneur Legacy",
+          "source": "linkedin",
+          "supportingInformation": "Founded Nomad List and Remote OK as a solo developer with millions in annual revenue",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Electronic Music & Nomadic Living",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio states \"Traveling the world with a laptop\" with posts from diverse global cafes",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "The quintessential indie hacker and digital nomad pioneer who champions radical autonomy, electronic music, and coding from beachside cafes around the globe."
+    },
+    "createdAt": "2026-01-10T11:25:00Z"
+  },
+  {
+    "id": "person_019",
+    "name": "Guillermo Rauch",
+    "handle": "@rauchg",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/rauchg",
+    "instagramUrl": "https://www.instagram.com/rauchg",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Vercel CEO, Next.js creator company leader, Socket.io creator history.",
+    "linkedinData": {
+      "headline": "CEO & Founder at Vercel",
+      "summary": "Building the Frontend Cloud and making the web faster for millions of developers worldwide. Creator of Socket.io, Mongoose, and early open-source JavaScript tooling.",
+      "experience": [
+        "Vercel (CEO & Founder, 2015-Present)",
+        "Automattic (VP Engineering)",
+        "LearnBoost (Founder & CTO)"
+      ],
+      "education": [
+        "Self-taught engineer from Argentina"
+      ],
+      "skills": [
+        "Web Architecture",
+        "Serverless & Edge Computing",
+        "Developer Experience (DX)",
+        "Next.js & React Ecosystem"
+      ],
+      "publicInterests": [
+        "Argentine Mate Culture",
+        "Fine Dining & Cooking",
+        "Classical Philosophy",
+        "Speed & Latency Optimization"
+      ]
+    },
+    "instagramData": {
+      "bio": "Founder & CEO @vercel. Obsessed with speed, taste, good food, and family.",
+      "captionThemes": [
+        "#VercelShip",
+        "#DesignAndSpeed",
+        "#MateTea",
+        "#SanFrancisco"
+      ],
+      "observableActivities": [
+        "Sipping Argentine yerba mate",
+        "Cooking home-cooked steaks and pasta",
+        "Exploring Bay Area architecture"
+      ],
+      "publicInterests": [
+        "Yerba Mate",
+        "Artisanal steaks",
+        "Typography & UI design",
+        "Aviation travel"
+      ]
+    },
+    "analysis": {
+      "personId": "person_019",
+      "profession": "CEO & Founder at Vercel",
+      "interests": [
+        "Frontend Architecture",
+        "Design Aesthetics",
+        "Argentine Mate",
+        "Culinary Cooking",
+        "Typography"
+      ],
+      "hobbies": [
+        "Preparing traditional mate tea",
+        "Cooking gourmet meals for friends",
+        "Appreciating minimalist typography"
+      ],
+      "lifestyleSignals": [
+        "Obsession with craft and responsiveness",
+        "Warm Argentine hospitality",
+        "High product taste"
+      ],
+      "communicationStyle": [
+        "Crisp",
+        "Inspiring",
+        "Taste-driven",
+        "Enthusiastic"
+      ],
+      "potentialCompatibilityFactors": [
+        "Appreciates partners who value high aesthetic standards, good food, and authentic warmth",
+        "Enjoys sharing a warm gourd of mate while discussing design and ambitious dreams"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Private household schedules"
+      ],
+      "evidence": [
+        {
+          "attribute": "Web Platform Leadership & Open Source",
+          "source": "linkedin",
+          "supportingInformation": "CEO of Vercel; open source icon who created Socket.io and scaled Next.js",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Argentine Mate & Taste-Obsessed Lifestyle",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts showcasing traditional mate rituals and culinary appreciation",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An energetic web visionary and open-source legend who balances relentless product craftsmanship with Argentine warmth, gourmet cooking, and a passion for yerba mate."
+    },
+    "createdAt": "2026-01-10T11:30:00Z"
+  },
+  {
+    "id": "person_020",
+    "name": "Dylan Field",
+    "handle": "@dylanfield",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/dylanfield",
+    "instagramUrl": "https://www.instagram.com/dylanfield",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Figma Co-Founder & CEO, Thiel Fellow and design community icon.",
+    "linkedinData": {
+      "headline": "Co-Founder & CEO at Figma",
+      "summary": "Making design accessible to all and transforming how creative teams collaborate on the web in real-time.",
+      "experience": [
+        "Figma (Co-Founder & CEO, 2012-Present)",
+        "Flipboard (Intern / Data Analyst)",
+        "Thiel Fellowship (2012 Fellow)"
+      ],
+      "education": [
+        "Brown University (Computer Science, Thiel Fellow leave)"
+      ],
+      "skills": [
+        "Collaborative Software",
+        "WebGL & Browser Graphics",
+        "Design Tooling",
+        "Creative Community Building"
+      ],
+      "publicInterests": [
+        "Generative Art & CryptoPunks",
+        "Cycling",
+        "Indie Games",
+        "Coffee Brewing"
+      ]
+    },
+    "instagramData": {
+      "bio": "Co-founder and CEO of Figma. Passionate about design, creative tools, cycling, and art.",
+      "captionThemes": [
+        "#ConfigConference",
+        "#DesignCommunity",
+        "#CyclingSF",
+        "#DigitalArt"
+      ],
+      "observableActivities": [
+        "Cycling across the Golden Gate Bridge",
+        "Attending design conferences",
+        "Visiting indie art galleries"
+      ],
+      "publicInterests": [
+        "Bicycle touring",
+        "Generative digital art",
+        "Specialty pour-overs",
+        "Architecture"
+      ]
+    },
+    "analysis": {
+      "personId": "person_020",
+      "profession": "Co-Founder & CEO at Figma",
+      "interests": [
+        "Collaborative Design",
+        "Computer Graphics",
+        "Road Cycling",
+        "Digital Art & Generative NFTs",
+        "Pour-Over Coffee"
+      ],
+      "hobbies": [
+        "Long cycling rides in Marin County",
+        "Collecting digital art",
+        "Exploring third-wave coffee roasters"
+      ],
+      "lifestyleSignals": [
+        "Design-conscious lifestyle",
+        "Humble and accessible demeanor",
+        "Bay Area outdoor enthusiast"
+      ],
+      "communicationStyle": [
+        "Thoughtful",
+        "Curious",
+        "Collaborative",
+        "Gentle"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with creatives, architects, and visual designers who love outdoor movement",
+        "A scenic bike ride followed by a quiet pour-over coffee is an ideal date"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private dating life",
+        "Personal off-hours itinerary"
+      ],
+      "evidence": [
+        {
+          "attribute": "Design Platform Architect",
+          "source": "linkedin",
+          "supportingInformation": "Thiel Fellow who founded Figma in 2012; revolutionized collaborative browser design",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Cycling & Digital Art",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts sharing Marin cycling routes and participation in generative art shows",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "The visionary co-founder of Figma whose quiet humility, dedication to creative collaboration, and love for road cycling embody the best of modern design culture."
+    },
+    "createdAt": "2026-01-10T11:35:00Z"
+  },
+  {
+    "id": "person_021",
+    "name": "Fidji Simo",
+    "handle": "@fidji_simo",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/fidjisimo",
+    "instagramUrl": "https://www.instagram.com/fidji_simo",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Instacart CEO, former Head of Facebook App, French-American women’s health advocate.",
+    "linkedinData": {
+      "headline": "CEO & Chair at Instacart | Board Member at Shopify",
+      "summary": "Leading the future of grocery commerce, connected retail, and food-as-medicine health solutions. Passionate about women's health research.",
+      "experience": [
+        "Instacart (CEO & Chair, 2021-Present)",
+        "Meta / Facebook (Head of Facebook App)",
+        "eBay (Strategy & Execution)"
+      ],
+      "education": [
+        "HEC Paris (Master in Management)",
+        "UCLA Anderson School of Management"
+      ],
+      "skills": [
+        "Consumer Marketplace Scalability",
+        "E-commerce Logistics",
+        "Women’s Health Advocacy",
+        "Media & Video Platforms"
+      ],
+      "publicInterests": [
+        "Mediterranean Cooking",
+        "French Contemporary Literature",
+        "Horseback Riding",
+        "Women’s Neuro-health"
+      ]
+    },
+    "instagramData": {
+      "bio": "CEO @Instacart. French native in California. Passionate about food, health, women’s wellness, and family.",
+      "captionThemes": [
+        "#InstacartCares",
+        "#FrenchCookingInCalifornia",
+        "#WomensHealth",
+        "#FoodAsMedicine"
+      ],
+      "observableActivities": [
+        "Cooking traditional French recipes with fresh produce",
+        "Equestrian riding",
+        "Hosting family dinners"
+      ],
+      "publicInterests": [
+        "French gastronomy",
+        "Horseback riding",
+        "Integrative health",
+        "Coastal living"
+      ]
+    },
+    "analysis": {
+      "personId": "person_021",
+      "profession": "CEO & Chair at Instacart",
+      "interests": [
+        "Grocery Logistics & Health",
+        "French Gastronomy",
+        "Horseback Riding",
+        "Women’s Health Research",
+        "Literature"
+      ],
+      "hobbies": [
+        "Cooking multi-course French dinners",
+        "Equestrian riding on coastal trails",
+        "Reading contemporary French fiction"
+      ],
+      "lifestyleSignals": [
+        "Mediterranean appreciation for food and connection",
+        "Strong focus on wellness and balance",
+        "Cultured and pragmatic"
+      ],
+      "communicationStyle": [
+        "Direct",
+        "Warm",
+        "Strategic",
+        "Cultured"
+      ],
+      "potentialCompatibilityFactors": [
+        "Connects with culinary enthusiasts and partners with grounded emotional maturity",
+        "Enjoys home-cooked dinners with fresh market ingredients and intellectual discussion"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Personal home routines"
+      ],
+      "evidence": [
+        {
+          "attribute": "Consumer Marketplace Leadership",
+          "source": "linkedin",
+          "supportingInformation": "Took Instacart public as CEO; former Head of Facebook App overseeing billions of users",
+          "confidence": "high"
+        },
+        {
+          "attribute": "French Gastronomy & Equestrian Passions",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio states \"French native in California\" with cooking and equestrian photos",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An accomplished executive and advocate who infuses Silicon Valley consumer commerce with authentic French culinary elegance and equestrian grace."
+    },
+    "createdAt": "2026-01-10T11:40:00Z"
+  },
+  {
+    "id": "person_022",
+    "name": "Austen Allred",
+    "handle": "@austen",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/austenallred",
+    "instagramUrl": "https://www.instagram.com/austen",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: BloomTech founder & CEO, author, Utah tech ecosystem figure.",
+    "linkedinData": {
+      "headline": "Co-Founder & CEO at BloomTech (formerly Lambda School)",
+      "summary": "Rethinking higher education and vocational training through outcome-aligned incentives and technical software education.",
+      "experience": [
+        "BloomTech (Co-Founder & CEO, 2017-Present)",
+        "Author of Secret Sauce: The Ultimate Growth Hacking Guide"
+      ],
+      "education": [
+        "BYU (attended)"
+      ],
+      "skills": [
+        "EdTech Innovation",
+        "Growth Marketing",
+        "Outcome-Based Financing",
+        "Public Policy in Education"
+      ],
+      "publicInterests": [
+        "Basketball & NBA",
+        "Mountain Hiking in Utah",
+        "Economic Mobility",
+        "Barbecue & Smoking Meat"
+      ]
+    },
+    "instagramData": {
+      "bio": "Founder @bloomtech. Basketball, tech, Utah mountains, and family.",
+      "captionThemes": [
+        "#BloomTech",
+        "#UtahOutdoors",
+        "#NBABasketball",
+        "#SmokedBrisket"
+      ],
+      "observableActivities": [
+        "Shooting hoops at local basketball courts",
+        "Smoking barbecue brisket on weekends",
+        "Hiking Utah trails"
+      ],
+      "publicInterests": [
+        "NBA basketball",
+        "Outdoor smoking & grilling",
+        "Trail hiking",
+        "Early stage startups"
+      ]
+    },
+    "analysis": {
+      "personId": "person_022",
+      "profession": "Co-Founder & CEO at BloomTech",
+      "interests": [
+        "Education Reform",
+        "NBA Basketball",
+        "Smoked Barbecue & Grilling",
+        "Utah Mountain Outdoors",
+        "Growth Hacking"
+      ],
+      "hobbies": [
+        "Playing pickup basketball",
+        "Weekend slow-smoking meats",
+        "Hiking mountain trails in Utah"
+      ],
+      "lifestyleSignals": [
+        "Outdoorsy Western lifestyle",
+        "Straightforward and outspoken",
+        "Family and community focused"
+      ],
+      "communicationStyle": [
+        "Direct",
+        "Pragmatic",
+        "Optimistic",
+        "Conversational"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with energetic, active partners who enjoy sports and mountain life",
+        "Loves a casual weekend BBQ followed by watching NBA playoff games"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Private household downtime"
+      ],
+      "evidence": [
+        {
+          "attribute": "Education Innovation & CEO Experience",
+          "source": "linkedin",
+          "supportingInformation": "Founded BloomTech / Lambda School pioneering income share models in tech training",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Basketball & Mountain Barbecue",
+          "source": "instagram",
+          "supportingInformation": "Instagram posts sharing barbecue cooking sessions and Utah mountain outings",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A gritty, pragmatic education entrepreneur who combines a passion for expanding economic mobility with pickup basketball and mountain barbecue."
+    },
+    "createdAt": "2026-01-10T11:45:00Z"
+  },
+  {
+    "id": "person_023",
+    "name": "Alex Bouaziz",
+    "handle": "@alexbouaziz",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/alexbouaziz",
+    "instagramUrl": "https://www.instagram.com/alexbouaziz",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Deel Co-Founder & CEO, MIT civil engineering graduate and global employment pioneer.",
+    "linkedinData": {
+      "headline": "Co-Founder & CEO at Deel",
+      "summary": "Building the all-in-one HR and payroll platform that allows companies to hire anyone, anywhere in the world seamlessly.",
+      "experience": [
+        "Deel (Co-Founder & CEO, 2019-Present)",
+        "Lifeslice (Founder)",
+        "Sarona Ventures (Venture Partner)"
+      ],
+      "education": [
+        "Massachusetts Institute of Technology (MIT, MEng Civil & Environmental Engineering)",
+        "Technion - Israel Institute of Technology (BS)"
+      ],
+      "skills": [
+        "Global Compliance & Payroll",
+        "Hypergrowth Execution",
+        "International Labor Architecture",
+        "Fintech"
+      ],
+      "publicInterests": [
+        "Scuba Diving",
+        "Skiing & Winter Sports",
+        "French Cinema",
+        "Global Food Exploration"
+      ]
+    },
+    "instagramData": {
+      "bio": "CEO @Deel. Global nomad. Scuba diver, skier, foodie. Making the world flatter.",
+      "captionThemes": [
+        "#DeelTeam",
+        "#GlobalHiring",
+        "#ScubaDivingWorld",
+        "#SkiTrips"
+      ],
+      "observableActivities": [
+        "Scuba diving in deep reefs",
+        "Alpine skiing in Switzerland",
+        "Tasting street food across continents"
+      ],
+      "publicInterests": [
+        "Scuba diving",
+        "Downhill skiing",
+        "International cuisines",
+        "Remote work advocacy"
+      ]
+    },
+    "analysis": {
+      "personId": "person_023",
+      "profession": "Co-Founder & CEO at Deel",
+      "interests": [
+        "Global Employment",
+        "Scuba Diving",
+        "Alpine Skiing",
+        "International Gastronomy",
+        "Fintech"
+      ],
+      "hobbies": [
+        "Deep-sea scuba diving",
+        "Skiing European slopes",
+        "Discovering local food markets while traveling"
+      ],
+      "lifestyleSignals": [
+        "High international mobility",
+        "Speed and adventure seeker",
+        "Multilingual and cosmopolitan"
+      ],
+      "communicationStyle": [
+        "High-velocity",
+        "Direct",
+        "Cosmopolitan",
+        "Energetic"
+      ],
+      "potentialCompatibilityFactors": [
+        "Thrives with travel-ready, adventurous partners who love skiing and exploring different continents",
+        "Enjoys spontaneous dinner reservations in new cities and diving excursions"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Non-work personal schedule"
+      ],
+      "evidence": [
+        {
+          "attribute": "Global Fintech & MIT Background",
+          "source": "linkedin",
+          "supportingInformation": "MIT graduate who co-founded Deel, scaling it to one of the fastest growing SaaS platforms",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Scuba Diving & Skiing Adventurer",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio states \"Scuba diver, skier, foodie\" with photos from marine dives and ski slopes",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "A cosmopolitan hyper-growth founder with a love for alpine skiing, deep-sea scuba diving, and exploring the culinary corners of the globe."
+    },
+    "createdAt": "2026-01-10T11:50:00Z"
+  },
+  {
+    "id": "person_024",
+    "name": "Cleo Abram",
+    "handle": "@cleoabram",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/cleoabram",
+    "instagramUrl": "https://www.instagram.com/cleoabram",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: Video journalist, creator of \"Huge If True\", former Vox producer and Columbia alumni.",
+    "linkedinData": {
+      "headline": "Video Journalist & Creator of \"Huge If True\" | Former Vox Producer",
+      "summary": "Creating optimistic, deeply researched video journalism on technology, science, and the future. Dedicated to explaining complex innovations with clarity and hope.",
+      "experience": [
+        "Huge If True (Creator & Host, 2021-Present)",
+        "Vox Media (Video Producer & Host, Glad You Asked)",
+        "Chalkbeat (Reporter)"
+      ],
+      "education": [
+        "Columbia University (BA Politics, Philosophy, and Economics)"
+      ],
+      "skills": [
+        "Science & Tech Journalism",
+        "Cinematic Explainer Production",
+        "Optimistic Storytelling",
+        "Research & Synthesis"
+      ],
+      "publicInterests": [
+        "Formula 1 Racing",
+        "Fusion Energy Research",
+        "Science Fiction",
+        "Running & Pilates"
+      ]
+    },
+    "instagramData": {
+      "bio": "Video journalist making \"Huge If True\". Optimistic show about technology and the future. F1 fan. NYC.",
+      "captionThemes": [
+        "#HugeIfTrue",
+        "#TechOptimism",
+        "#F1Paddock",
+        "#ScienceJournalism"
+      ],
+      "observableActivities": [
+        "Attending Formula 1 races in paddock",
+        "Filming inside nuclear fusion reactors",
+        "Morning jogs in Central Park"
+      ],
+      "publicInterests": [
+        "Formula 1",
+        "Fusion energy",
+        "Space exploration",
+        "Running"
+      ]
+    },
+    "analysis": {
+      "personId": "person_024",
+      "profession": "Video Journalist & Creator of \"Huge If True\"",
+      "interests": [
+        "Tech Optimism",
+        "Formula 1 Racing",
+        "Fusion & Clean Energy",
+        "Science Explanations",
+        "Running"
+      ],
+      "hobbies": [
+        "Following Formula 1 Grand Prix races",
+        "Morning runs in Central Park",
+        "Reading frontier science papers"
+      ],
+      "lifestyleSignals": [
+        "Bright tech-optimist worldview",
+        "New York City urban cadence",
+        "High curiosity and infectious wonder"
+      ],
+      "communicationStyle": [
+        "Engaging",
+        "Curious",
+        "Optimistic",
+        "Articulate"
+      ],
+      "potentialCompatibilityFactors": [
+        "Resonates with curious minds who view the future with hope, curiosity, and excitement",
+        "A walk through Central Park followed by watching an F1 race is an ideal date"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic preferences",
+        "Personal weekend plans outside filming"
+      ],
+      "evidence": [
+        {
+          "attribute": "Video Journalism & Tech Optimism",
+          "source": "linkedin",
+          "supportingInformation": "Former Vox producer who created \"Huge If True\" explaining nuclear fusion, AI, and biotech",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Formula 1 Passion & NYC Running",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio highlights \"F1 fan. NYC.\" with posts from Grand Prix tracks and Central Park runs",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An infectiously curious and optimistic video journalist who brings cinematic clarity to frontier science while cheering passionately for Formula 1."
+    },
+    "createdAt": "2026-01-10T11:55:00Z"
+  },
+  {
+    "id": "person_025",
+    "name": "Justine Ezarik",
+    "handle": "@ijustine",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&auto=format&fit=crop&q=80",
+    "linkedinUrl": "https://www.linkedin.com/in/justineezarik",
+    "instagramUrl": "https://www.instagram.com/ijustine",
+    "identityVerified": true,
+    "sourceStatus": "verified",
+    "analysisStatus": "completed",
+    "verificationNotes": "Cross-verified: iJustine creator brand, NYT bestselling author, gaming and tech hardware pioneer.",
+    "linkedinData": {
+      "headline": "Tech Creator, Host, Author & Producer (iJustine)",
+      "summary": "Digital creator and technology tastemaker for over 15 years. Host of Same Brain podcast, author of I, Justine, and advisor to consumer tech brands.",
+      "experience": [
+        "iJustine Productions (Founder & Host, 2006-Present)",
+        "Same Brain Podcast (Co-Host)",
+        "New York Times Bestselling Author"
+      ],
+      "education": [
+        "Pittsburgh Technical College (Associate in Graphic & Multimedia Design)"
+      ],
+      "skills": [
+        "Consumer Electronics Reviews",
+        "Video Game Streaming",
+        "Live Production",
+        "Podcast Hosting"
+      ],
+      "publicInterests": [
+        "Video Gaming (Call of Duty, Nintendo)",
+        "Cooking Gadgets",
+        "Dogs (Rescue Pups)",
+        "Drone Cinematography"
+      ]
+    },
+    "instagramData": {
+      "bio": "Tech, gaming, food, travel, and my rescue dogs. Host of @samebrain podcast.",
+      "captionThemes": [
+        "#iJustine",
+        "#GamingSetup",
+        "#TechReview",
+        "#RescueDogs"
+      ],
+      "observableActivities": [
+        "Testing drone cameras outdoors",
+        "Streaming video games",
+        "Baking and testing smart kitchen appliances with her dogs"
+      ],
+      "publicInterests": [
+        "Rescue dogs",
+        "Nintendo & PC gaming",
+        "Drone flying",
+        "Culinary gadgetry"
+      ]
+    },
+    "analysis": {
+      "personId": "person_025",
+      "profession": "Tech Creator, Host, Author & Producer",
+      "interests": [
+        "Consumer Gadgets",
+        "Video Gaming",
+        "Rescue Dogs",
+        "Culinary Tech & Baking",
+        "Drone Photography"
+      ],
+      "hobbies": [
+        "Gaming on PC and console",
+        "Flying FPV drones",
+        "Training and walking rescue dogs",
+        "Experimenting with smart ovens"
+      ],
+      "lifestyleSignals": [
+        "Bright, joyful, and tech-enthusiastic",
+        "Dog lover through and through",
+        "Pioneer of internet creator culture"
+      ],
+      "communicationStyle": [
+        "High-energy",
+        "Friendly",
+        "Enthusiastic",
+        "Accessible"
+      ],
+      "potentialCompatibilityFactors": [
+        "Loves playful, dog-friendly, and tech-savvy partners who enjoy gaming nights or drone flying sessions",
+        "Must adore rescue animals and enjoy spontaneous creative projects"
+      ],
+      "statedRelationshipPreferences": [],
+      "unknowns": [
+        "Private romantic intentions",
+        "Personal home schedule"
+      ],
+      "evidence": [
+        {
+          "attribute": "Pioneering Tech Creator Legacy",
+          "source": "linkedin",
+          "supportingInformation": "Over 15 years leading consumer electronics reviews and digital video production as iJustine",
+          "confidence": "high"
+        },
+        {
+          "attribute": "Gaming & Rescue Dogs Evidenced",
+          "source": "instagram",
+          "supportingInformation": "Instagram bio highlights \"Tech, gaming, food, travel, and my rescue dogs\" with frequent gaming setup posts",
+          "confidence": "high"
+        }
+      ],
+      "overallSummary": "An iconic internet pioneer and tech creator whose boundless enthusiasm, love for rescue dogs, and gaming adventures bring warmth and levity to every setting."
+    },
+    "createdAt": "2026-01-10T12:00:00Z"
+  }
+]
